@@ -12,7 +12,7 @@ display(){
     var position = this.body.position;
     rectMode(CENTER);
     fill(100);
-rect(position.x,position.y,this.width,this.height);
+rect(position.x, position.y, this.width, this.height);
 
 }
 };
